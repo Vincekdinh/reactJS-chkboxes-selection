@@ -11,7 +11,7 @@
 
 .app-container {
   border: 1px solid black;
-  max-width: 30%;
+  max-width: 25%;
   margin: 200px auto;
   border-radius: 5px;
 }
@@ -55,13 +55,13 @@ button {
   border-radius: 5px;
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1300px){
   .app-container {
-    max-width: 50%;
+    max-width: 60%;
   }
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 610px){
   .app-container {
     max-width: 90%;
   
