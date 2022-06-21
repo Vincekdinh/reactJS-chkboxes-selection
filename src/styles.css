@@ -61,7 +61,7 @@ button {
   }
 }
 
-@media screen and (max-width: 610px){
+@media screen and (max-width: 600px){
   .app-container {
     max-width: 90%;
   
