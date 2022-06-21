@@ -1,0 +1,59 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app-container {
+  border: 1px solid black;
+  max-width: 25%;
+  margin: 200px auto;
+  border-radius: 5px;
+}
+
+header{
+  background-color: bisque;
+  height: 5%;
+  vertical-align: bottom;
+  padding: 10px;
+}
+
+.food-container {
+  display: flex;
+  align-items: left;
+  flex-direction: column;
+}
+
+.flexbox {
+  margin: 10px 0;
+}
+
+input[type="checkbox"]{
+  width: 40px;
+  height: 20px;
+  vertical-align: baseline;
+}
+
+label {
+  font-size: x-large;
+}
+
+button {
+  color: green;
+  font-size: x-large;
+  font-weight: 900;
+  height: 40px;
+  width: 95%;
+  margin: 10px auto;
+  background-color: transparent;
+  border-radius: 5px;
+  
+}
+
+
+
