@@ -1,3 +1,3 @@
 # reactJS-chkboxes-selection
 
-### Live demo: https://sweet-truffle-9ded38.netlify.app
+### Live demo: https://reactjs-chkboxes-selection.netlify.app
